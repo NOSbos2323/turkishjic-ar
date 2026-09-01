@@ -1,0 +1,5 @@
+# Turkish JIC Portal — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://nosbos2323.github.io/turkishjic-ar/sitemap.xml
